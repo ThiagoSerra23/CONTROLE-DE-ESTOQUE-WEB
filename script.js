@@ -5,9 +5,8 @@ let btnEditar = document.querySelectorAll('#botoes button')[2];
 let nome = document.querySelectorAll('#wrap input')[0];
 let quantidade = document.querySelectorAll('#wrap input')[1];
 let preco = document.querySelectorAll('#wrap input')[2];
-
-let descricao = document.querySelectorAll('#wrap input')[4];
-let categoria = document.querySelectorAll('#wrap input')[5];
+let descricao = document.querySelectorAll('#wrap input')[3];
+let categoria = document.querySelectorAll('#wrap input')[4];
 
 let tabela = document.querySelector('#saida table tbody');
 let BD = [];
